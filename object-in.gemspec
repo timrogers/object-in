@@ -9,11 +9,9 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Tim Rogers"]
   gem.email         = ["tim@gocardless.com"]
   gem.description   = %q{A monkeypatch on Object which adds the instance method
-    "in?", which is Array#include? with the subject and object
-    inverted}
+"in?", which is Array#include? with the subject and object inverted.}
   gem.summary       = %q{A monkeypatch on Object which adds the instance method
-    "in?", which is Array#include? with the subject and object
-    inverted}
+"in?", which is Array#include? with the subject and object inverted.}
   gem.homepage      = "http://timrogers.github.com/#object-in"
 
   gem.files         = `git ls-files`.split($/)
