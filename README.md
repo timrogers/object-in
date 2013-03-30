@@ -19,6 +19,8 @@ Or install it yourself as:
 
     $ gem install object-in
 
+You can view me on Rubygems.org [here](http://rubygems.org/gems/object-in).
+
 ## Usage
 
 This adds to Object, so it will be available on *(essentially?)* everything.
