@@ -29,7 +29,7 @@ in.
 array = %w{yankee doodle doo}
 "yankee".in? array # => true
 "da".in? array # => false
-yankee.in? array.join(" ") # => raises a TypeError excdption
+yankee.in? array.join(" ") # => raises a TypeError exception
 ```
 
 * It returns true if the array passed in includes the object.
