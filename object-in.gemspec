@@ -12,7 +12,7 @@ Gem::Specification.new do |gem|
 "in?", which is Array#include? with the subject and object inverted.}
   gem.summary       = %q{A monkeypatch on Object which adds the instance method
 "in?", which is Array#include? with the subject and object inverted.}
-  gem.homepage      = "http://timrogers.github.com/#object-in"
+  gem.homepage      = "https://github.com/timrogers/object-in"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
